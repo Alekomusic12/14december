@@ -36,7 +36,7 @@ let tituloTienda = "Crepres rolos rolos"
 
 var tiutloBienvenida = "Gracias por su compra... esperamos tenerlo de vuelta"
 
-const nitTienda = "900847564-3"
+const nitTienda = "Domicilios 018000 7474"
 
 
 let tituloh1 = document.getElementById("titulo")
